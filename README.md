@@ -8,7 +8,7 @@ If you want to run this code on your computer, I would have to install Anaconda 
 3. Right click on folder and open it in terminal
 4. Run the command in terminal 
 ```
-jupyter notebook
+$ jupyter notebook
 ```
 
 5. Open the Charts.ipynb file
